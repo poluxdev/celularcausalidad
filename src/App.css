@@ -1,0 +1,42 @@
+body {
+  background-image: url('../public/images/universocuantico.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente para mejorar la legibilidad */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h1, h2, h3 {
+  color: #ffcc00; /* Color amarillo brillante para encabezados */
+}
+
+p {
+  color: #ffffff; /* Color blanco para los párrafos */
+}
+
+.btn {
+  background-color: #ff007f; /* Color magenta brillante para botones */
+  color: #ffffff; /* Texto en blanco para el botón */
+}
+
+.btn:hover {
+  background-color: #ff3399; /* Color magenta más claro al pasar el mouse */
+}
+
+.text-center {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra de texto para mayor contraste */
+}
+
+.main-message {
+  background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente */
+  color: #000000; /* Color del texto */
+  padding: 15px; /* Espaciado interno */
+  margin: 10px 0; /* Margen superior e inferior */
+  border: 2px solid #ff007f; /* Borde magenta brillante */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+}

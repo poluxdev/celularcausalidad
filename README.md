@@ -1,0 +1,1 @@
+aplicando la numerologia a numeros de celular 
